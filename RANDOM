@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("LOLRAN").xxr()
+    __import__("RANDOM").mainx()
 except Exception as e:
     exit(str(e))
