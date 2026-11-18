@@ -1,1 +1,10 @@
-USD-OK
+{
+  "verified": [
+    {
+      "username": "meithun",
+      "name": "Meithun Hossain",
+      "developerId": "UHB-2026-00001",
+      "status": "verified"
+    }
+  ]
+}
